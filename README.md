@@ -1,7 +1,3 @@
-Here’s an improved and more polished version of your README file, with clearer structure, refined language, and a more professional yet inspiring tone. I’ve kept your original intent and format but elevated the messaging to make it more engaging for participants.
-
----
-
 # <p align="center">🚴‍♀️ **Beam: Invent the Future of Work with Intelligent Agents** 🚀</p>
 
 ## <p align="center">📣 Case Introduction</p>
@@ -24,7 +20,7 @@ We'll provide platform access and starter examples — you bring the ideas.
 
 ## <p align="center">📊 The Pitch</p>
 
-<p align="center">[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)</p>
+[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)
 
 ---
 
@@ -106,11 +102,6 @@ You’ll get full access to:
 
 ---
 
-## <p align="center">🧠 Judging Criteria</p>
-
-Absolutely — here is a **refined judging criteria section** designed specifically for your Beam hackathon context. It ties directly to the no-code AI agent-building experience, the enterprise workflow transformation challenge, and the evaluation of both technical depth and practical impact.
-
----
 
 ## <p align="center">🧠 Judging Criteria</p>
 
@@ -133,11 +124,6 @@ Earn extra credit for:
 * Creative use of **voice, natural language interfaces**, or multimodal interactions
 * Innovative use of the **Dataset Generator** or augmentation techniques
 * Embedding the agent into a polished UI using **Loveable** or Beam APIs
-
----
-
-Let me know if you want this section formatted for direct insertion into the README or if you'd like different weightings for each category.
-
 
 ---
 
