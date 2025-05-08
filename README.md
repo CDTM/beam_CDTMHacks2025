@@ -20,7 +20,7 @@ We'll provide platform access and starter examples — you bring the ideas.
 
 ## <p align="center">📊 The Pitch</p>
 
-[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)
+<p align="center"><em>[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)</em></p>
 
 ---
 
