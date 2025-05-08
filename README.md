@@ -8,19 +8,25 @@ AI-driven automation is reshaping how enterprises operate — unlocking opportun
 
 ### 🛠 What You Can Do:
 
-* **Target a workflow or department** at PedalWorks where intelligent agents could drive massive value.
-* **Design and prototype AI agents** that automate, streamline, or reinvent real business processes.
-* **Explore new modalities** — integrate voice for natural interaction or use Beam’s APIs to build custom interfaces with tools like **Loveable**.
+* Target a workflow or department at PedalWorks where intelligent agents could drive massive value.
+* Design and prototype AI agents that automate, streamline, or reinvent real business processes.
+* Explore new modalities — integrate voice for natural interaction or use Beam’s APIs to build custom interfaces with tools like Loveable.
 
 We'll provide platform access and starter examples — you bring the ideas.
 
-**Think you’ve got what it takes?** Show us your vision at the hackathon. 🧠⚡
+Think you’ve got what it takes? Show us your vision at the hackathon. 🧠⚡
 
 ---
 
 ## <p align="center">📊 The Pitch</p>
 
-<p align="center"><em>[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)</em></p>
+<p align="center">
+  <em>
+    <a href="https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing" target="_blank">
+      Pitch
+    </a>
+  </em>
+</p>
 
 ---
 
@@ -47,9 +53,9 @@ Each team struggles with **repetitive, low-value tasks** that hamper productivit
 
 Pick a real-world problem in any department, and demonstrate how your agent can:
 
-* **Automate with Intelligence:** Deliver a working, end-to-end workflow powered by Beam.
-* **Deliver Tangible Impact:** Quantify gains — hours saved, errors reduced, or satisfaction improved.
-* **Integrate Seamlessly:** Show how your agent fits into existing tools and processes.
+* Automate with Intelligence: Deliver a working, end-to-end workflow powered by Beam.
+* Deliver Tangible Impact: Quantify gains — hours saved, errors reduced, or satisfaction improved.
+* Integrate Seamlessly: Show how your agent fits into existing tools and processes.
 
 ---
 
@@ -121,9 +127,9 @@ Your submission will be evaluated across the following five dimensions. Winning 
 
 Earn extra credit for:
 
-* Creative use of **voice, natural language interfaces**, or multimodal interactions
-* Innovative use of the **Dataset Generator** or augmentation techniques
-* Embedding the agent into a polished UI using **Loveable** or Beam APIs
+* Creative use of voice, natural language interfaces, or multimodal interactions
+* Innovative use of the Dataset Generator or augmentation techniques
+* Embedding the agent into a polished UI using Loveable or Beam APIs
 
 ---
 
