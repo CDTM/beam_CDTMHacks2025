@@ -2,7 +2,7 @@ Here’s an improved and more polished version of your README file, with clearer
 
 ---
 
-# <p align="center">🚴‍♀️ **beam: Build the Future of AI Workflows with Beam** 🚀</p>
+# <p align="center">🚴‍♀️ **Beam: Invent the Future of Work with Intelligent Agents** 🚀</p>
 
 ## <p align="center">📣 Case Introduction</p>
 
@@ -24,7 +24,7 @@ We'll provide platform access and starter examples — you bring the ideas.
 
 ## <p align="center">📊 The Pitch</p>
 
-<p align="center"><em>Insert Pitch Deck Here</em></p>
+<p align="center">[Pitch](https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing)</p>
 
 ---
 
@@ -68,7 +68,7 @@ Pick a real-world problem in any department, and demonstrate how your agent can:
 | **HR & Onboarding**  | - New-hire paperwork takes days via email. <br> - Training compliance is manually tracked. <br> - Resume screening is inefficient.                                  | - Automate onboarding workflows to reduce ramp time. <br> - Track certifications centrally. <br> - Use intelligent filters to shortlist candidates quickly.                                                |
 | **Customer Support** | - Requests arrive unstructured, requiring manual parsing. <br> - Customer data is spread across tools. <br> - Claim tracking is manual and error-prone.             | - Convert support requests into structured formats automatically. <br> - Give agents full visibility into customer history. <br> - Track and manage claims in a centralized, reliable system.              |
 
-<p align="center"><em>[Department Diagram Placeholder: departments.png]</em></p>
+![Alt text](departments.png)
 
 ---
 
@@ -108,19 +108,42 @@ You’ll get full access to:
 
 ## <p align="center">🧠 Judging Criteria</p>
 
-| **Criteria**     | **Description**                                                        |
-| ---------------- | ---------------------------------------------------------------------- |
-| **Innovation**   | Creativity and originality of the agent use case and design.           |
-| **Execution**    | Functionality, completeness, and polish of the prototype.              |
-| **Impact**       | Demonstrated or potential business value and efficiency gains.         |
-| **Integration**  | Seamless use of Beam platform features and/or external systems.        |
-| **Presentation** | Clarity, narrative, and effectiveness of the demo or final submission. |
+Absolutely — here is a **refined judging criteria section** designed specifically for your Beam hackathon context. It ties directly to the no-code AI agent-building experience, the enterprise workflow transformation challenge, and the evaluation of both technical depth and practical impact.
+
+---
+
+## <p align="center">🧠 Judging Criteria</p>
+
+Your submission will be evaluated across the following five dimensions. Winning teams will excel not only in innovation, but also in execution, impact, and storytelling.
+
+| **Criteria**                         | **What We’re Looking For**                                                                                                                                                                                |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Use Case Relevance**            | How well does the solution align with real-world challenges faced by PedalWorks? <br> Did the team pick a meaningful problem and clearly articulate the pain point?                                       |
+| **2. Workflow Design & Agent Logic** | Does the agent demonstrate a thoughtful, end-to-end process? <br> Are flows well-structured, modular, and effectively using Beam’s platform features? |
+| **3. Technical Integration**         | How seamlessly does the solution integrate with other tools, datasets, or UIs (via Beam APIs or Loveable)? <br> Did the team go beyond Beam basics to build robust systems?                               |
+| **4. Business & Operational Impact** | What measurable value could this solution deliver (e.g., time saved, errors reduced, faster onboarding, better forecasting)? <br> Is the impact clearly demonstrated or well-reasoned?                    |
+| **5. Presentation & Storytelling**   | Was the final demo compelling, clear, and easy to follow? <br> Did the team communicate their agent’s purpose, design, and impact effectively — both visually and verbally?                               |
+
+---
+
+### 🏅 Bonus Points
+
+Earn extra credit for:
+
+* Creative use of **voice, natural language interfaces**, or multimodal interactions
+* Innovative use of the **Dataset Generator** or augmentation techniques
+* Embedding the agent into a polished UI using **Loveable** or Beam APIs
+
+---
+
+Let me know if you want this section formatted for direct insertion into the README or if you'd like different weightings for each category.
+
 
 ---
 
 ## <p align="center">📬 Point of Contact</p>
 
-<p align="center">Questions? Reach out to **Burak**, **Mujtaba**, or **Aqib** during the Deep Dive — or ping us anytime on Discord!</p>
+<p align="center">Questions? Reach out to Burak, Mujtaba, or Aqib during the Deep Dive — or ping us anytime on Discord!</p>
 
 ---
 
