@@ -1,0 +1,12 @@
+ID,CompanyCode,Supplier,Plant,Material Number,Purchasing Organisation,PurchasingDocumentType,Contract Item Reference,Net Unit Price,Currency,Quantity,Quantity Unit,Lead Time,Planned Lead Time
+08540146632,US02,VND14 - Siplicity Drinks,PL09 - Philadelphia Plant,MAT242 - Palm Oil 10L,NAM - NAM,Purchase order,-,15.442,EUR,360,UNT,4.98 days,10 days
+09d1e1817614,CA01,VND25 - Culinary Crafters,PL08 - Canada Plant,MAT242 - Palm Oil 10L,NAM - NAM,Purchase order,-,15.371,EUR,360,UNT,12.0 days,8 days
+0f33c324792,US01,VND3 - Sips & Savories,PL17 - New York Plant,MAT213 - Rice 20kg,NAM - NAM,Purchase order,-,15.268,EUR,360,UNT,8.20 days,5 days
+29cf81145219,CA01,VND8 - Sweets & Sips,PL08 - Canada Plant,MAT242 - Palm Oil 10L,NAM - NAM,Purchase order,-,15.248,EUR,360,UNT,-,8 days
+20e2a62368,CA01,VND6 - Café Elegance,PL08 - Canada Plant,MAT242 - Palm Oil 10L,NAM - NAM,Purchase order,-,15.202,EUR,360,UNT,7.98 days,8 days
+54e0d156258,US01,VND28 - Gastronomic Gather,PL17 - New York Plant,MAT213 - Rice 20kg,NAM - NAM,Purchase order,-,15.183,EUR,360,UNT,8.37 days,5 days
+3878f90979,US01,VND7 - SodaStreamers,PL17 - New York Plant,-,NAM - NAM,Purchase order,-,15.157,EUR,360,UNT,-,-
+4401d282466,US01,VND18 - Thirst Quencher,PL17 - New York Plant,MAT213 - Rice 20kg,NAM - NAM,Purchase order,-,15.128,EUR,360,UNT,5.92 days,5 days
+7140a333452,US01,VND30 - Basti's Bakery,PL17 - New York Plant,MAT213 - Rice 20kg,NAM - NAM,Purchase order,-,15.1,EUR,360,UNT,9.02 days,5 days
+e25ca202561,US01,VND23 - ChocoCharm Confections,PL17 - New York Plant,MAT213 - Rice 20kg,NAM - NAM,Purchase order,-,14.957,EUR,360,UNT,5.55 days,5 days
+a44dd252606,US02,VND30 - Basti's Bakery,PL09 - Philadelphia Plant,MAT242 - Palm Oil 10L,NAM - NAM,Purchase order,ContractItem_HCe0-7c3adab708476,14.895,EUR,360,UNT,15.0 days,10 days
