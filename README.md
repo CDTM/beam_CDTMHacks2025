@@ -22,8 +22,8 @@ Think you’ve got what it takes? Show us your vision at the hackathon. 🧠⚡
 
 <p align="center">
   <em>
-    <a href="https://docs.google.com/presentation/d/1rcZP8vnT2lSsNStOSm3ppXShRl32hN5W1uVlZi8lpvM/edit?usp=sharing" target="_blank">
-      Pitch
+    <a href="3-min-Pitch-Beam-x-CDTM-Hackathon.pdf">
+      Case Introduction
     </a>
   </em>
 </p>
@@ -33,6 +33,15 @@ Think you’ve got what it takes? Show us your vision at the hackathon. 🧠⚡
 ## <p align="center">🔬 Deep Dive Slides</p>
 
 <p align="center"><em>Insert Deep Dive Slides Here</em></p>
+
+<p align="center">
+  <em>
+    <a href="Deep-Dive-Beam-x-CDTM-Hackathon.pdf">
+      Case Deep Dive
+    </a>
+  </em>
+</p>
+
 
 ---
 
